@@ -1,3 +1,5 @@
+# rust 설치
+https://www.rust-lang.org/tools/install
 
 # rust 서버 구축
 ### 1. 바이너리 프로그램 생성
